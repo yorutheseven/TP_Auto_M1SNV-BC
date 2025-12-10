@@ -1,0 +1,13 @@
+[2025-12-04 23:28:45] 🔽 Téléchargement du dataset GSE11121 depuis NCBI GEO...
+[2025-12-04 23:29:23] ✅ Téléchargement terminé.
+[2025-12-04 23:29:23] Titre de l'étude : The humoral immune system has a key prognostic impact in node-negative breast cancer
+[2025-12-04 23:29:23] Nombre d'échantillons : 200
+[2025-12-04 23:29:23] 📊 Extraction et fusion des données d’expression...
+[2025-12-04 23:29:24] ✅ Fusion réussie : 22283 gènes, 200 échantillons.
+[2025-12-04 23:29:24] 📈 Calcul des statistiques descriptives...
+[2025-12-04 23:29:24] ✅ Statistiques enregistrées dans results/summary_stats.txt
+[2025-12-04 23:29:24] 📊 Histogramme sauvegardé dans results/hist_expression.png
+[2025-12-04 23:29:24] 🧠 Génération d'une heatmap avec clustering...
+[2025-12-04 23:29:25] 🔥 Heatmap sauvegardée dans results/heatmap_clustering.png
+[2025-12-04 23:29:27] ✅ Données exportées dans results/expression_cleaned.csv
+[2025-12-04 23:29:27] 🎉 TP exécuté avec succès ! Consultez le dossier results/.
