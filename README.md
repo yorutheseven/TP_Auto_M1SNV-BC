@@ -1,16 +1,13 @@
-# TP_Auto_M1SNV-BC
-# TP 2 - RBSA Automation
+# TP BC 2 Automation
 
 ## 📌 Description
-Ce projet implémente une automatisation d’un traitement géographique en utilisant Python et Bash.
-L’exécution du projet est automatisée via **GitHub Actions**.
+Ce projet Python (TP BC 2) automatise un traitement géographique.
+L’exécution est automatisée grâce à GitHub Actions.
 
-## ⚙️ Technologies utilisées
+## ⚙️ Technologies
 - Python
-- Bash
-- GitHub Actions (CI)
+- GitHub Actions
 
 ## ▶️ Exécution locale
 ```bash
-chmod +x run_tp_geo.sh
-./run_tp_geo.sh
+python tp_geo_main.py
